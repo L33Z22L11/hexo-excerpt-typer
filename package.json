@@ -1,0 +1,18 @@
+{
+    "name": "hexo-excerpt-typer",
+    "version": "0.0.1",
+    "description": "Display excerpt in your articles using typewriter animation.",
+    "main": "main",
+    "keywords": [
+        "hexo",
+        "excerpt",
+        "typewriter"
+    ],
+    "author": {
+        "name": "Zhilu",
+        "url": "https://zhilu.cyou"
+    },
+    "repository": "L33Z22L11/hexo-excerpt-typer",
+    "homepage": "https://github.com/L33Z22L11/hexo-excerpt-typer",
+    "license": "MIT"
+}
